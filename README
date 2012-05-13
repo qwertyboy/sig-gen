@@ -1,0 +1,11 @@
+AD9835 Signal Generator
+
+Features:
+	-1Hz to 25MHz sine wave output
+	-5-10 volt power input
+	-Separate analog and digital supplies
+	-SMA output connector
+	-4 mounting holes
+	-All control signals brought out to header
+
+Read the comments here for Arduino examples: http://www.sparkfun.com/products/9169
